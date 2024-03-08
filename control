@@ -1,0 +1,9 @@
+Package: fyi.zxcvbn.ytliteplus
+Name: YTLitePlus
+Version: 03.07.2024-1
+Architecture: iphoneos-arm
+Description: YTLitePlus, an enhancement for YTLite! (jailbroken version)
+Author: Balackburn
+Maintainer: zxcvbn
+Section: Tweaks
+Depends: firmware (>= 14.0), com.dvntm.ytlite
